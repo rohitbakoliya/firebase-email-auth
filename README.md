@@ -1,4 +1,4 @@
-# project_organizer
+# Firebase email authentication
 
 A new Flutter project.
 
